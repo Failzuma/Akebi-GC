@@ -22,14 +22,14 @@ namespace cheat::feature
 
         ImGui::Text("Founder:");
         ImGui::SameLine();
-        ImGui::TextColored(ImColor(0, 102, 255, 255), "Callow");
+        ImGui::TextColored(ImColor(0, 102, 255, 255), "Failzuma");
         
 		ImGui::Text("Main developer and updater:");
 		ImGui::SameLine();
-		ImGui::TextColored(ImColor(0, 102, 255, 255), "Taiga");
+		ImGui::TextColored(ImColor(0, 102, 255, 255), "Failzuma");
 
 		ImGui::Text("Main contributors:");
-		ImGui::TextColored(ImColor(0, 102, 255, 255), "RyujinZX, WitchGod, m0nkrel, Shichiha, harlanx, andiabrudan, hellomykami");
+		ImGui::TextColored(ImColor(0, 102, 255, 255), "Failzuma");
 
 		ImGui::Text("Full contributor list:");
 		TextURL("Github link", "https://github.com/Akebi-Group/Akebi-GC/graphs/contributors", true, false);
