@@ -6,7 +6,7 @@
 <p align="center">
  <a href="https://github.com/Akebi-Group/Akebi-GC/releases/latest"><img src="https://img.shields.io/github/v/release/Akebi-Group/Akebi-GC?style=for-the-badge"></a>
  <a href="https://github.com/Akebi-Group/Akebi-GC/releases"><img src="https://img.shields.io/github/downloads/Akebi-Group/Akebi-GC/total.svg?style=for-the-badge"></a>
- <a href="https://github.com/Akebi-Group/Akebi-GC/graphs/contributors"><img src="https://img.shields.io/github/contributors/Akebi-Group/Akebi-GC?style=for-the-badge&color=red"></a>
+ <a href="https://github.com/Failzuma/Akebi-GC/graphs/contributors"><img src="https://img.shields.io/github/contributors/Failzuma/Akebi-GC?style=for-the-badge&color=red"></a>
  <a href="https://discord.gg/MmV8hNZB9S"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
